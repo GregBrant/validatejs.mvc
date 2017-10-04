@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>AppLogger.YOUR_NAME</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>YOUR_NAME</Authors>
+    <Description>Awesome application logging utility</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <Copyright>Copyright 2017 (c) Contoso Corporation. All rights reserved.</Copyright>
+    <PackageTags>logger logging logs</PackageTags>
+    <AssemblyName>ValidateJS.Mvc</AssemblyName>
+    <RootNamespace>ValidateJS.Mvc</RootNamespace>
+  </PropertyGroup>
+
+</Project>
